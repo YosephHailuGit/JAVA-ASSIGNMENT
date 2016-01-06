@@ -1,0 +1,38 @@
+
+package fibfactorial;
+
+import java.util.*;
+
+public class FibFactorial {
+
+    public static void main(String[] args) {
+        Scanner input=new Scanner(System.in);
+        System.out.print("ENTER INTIGER : ");
+        int num=input.nextInt();
+        System.out.println("FACTORIAL OF "+num+" = "+factorial(num));
+        System.out.println("LIST OF FIRST "+num+" FIBONACY NUMBERS->");
+        fibonacy(num);
+        
+        
+    }
+    
+    static int factorial(int num){
+        int factor=1;
+        for(int i=1;i<num;i++){
+            factor*=i;
+        }
+           return factor;     
+    }
+    
+    static void fibonacy(int num){
+        int i=0,a=0,b=1,c=0;
+        while(i<num){
+            System.out.print(c+"\t");
+            a=b;
+            b=c;
+            c=a+b;
+            i++;
+        }
+    }
+    
+}
