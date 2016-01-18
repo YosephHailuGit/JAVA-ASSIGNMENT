@@ -1,9 +1,9 @@
 # JAVA-ASSIGNMENT
 
-
-NAME              ID
-Yosef  Hailu    EITM/UR415/07
-Yitbarek mamo    EITM/UR84190/07
-Yonas Destalem  EITM/UR163833/07
-Zeineb yesuf    EITM/UR363856/07
-yared gashaw    EITM/UR84081/07
+GROUP MEMBERS
+1.	Yoseph  Hailu			EITM/ur84105/07
+2.	Yitbarek  Mamo			EITM/ur84190/07
+3.	Yonas   Destalem		EITM/ur163833/06
+4.	Zeineb   Yesuf			EITM/ur263856/06
+5.	Yared   Gashaw			EITM/ur84081/07
+6.	Metiku  Grdebo			EITM/ur2663670/06
